@@ -81,6 +81,9 @@ Developed an AI-powered deforestation monitoring system using Sentinel-2 imagery
 
 ## Contact
 
-Email: [your-email@gmail.com](mailto:sreya4662@gmail.com)
-LinkedIn: in/sreya005
+Email: [sreya4662@gmail.com](mailto:sreya4662@gmail.com)
+
+LinkedIn: https://linkedin.com/in/sreya005
+
 GitHub: https://github.com/sreyasunil
+
