@@ -74,14 +74,29 @@ Developed an AI-powered deforestation monitoring system using Sentinel-2 imagery
 **Tech Stack:** Python, Streamlit, Google Earth Engine, Geemap, PyDeck
 
 
-## Current Focus
+## Current Learning
 
 * Strengthening problem-solving and DSA skills
 * Building production-level AI projects
-* Exploring AI deployment workflows
+* RAG-based AI systems
+* Exploring Cloud and AI deployment workflows
 * Improving backend and full stack development skills
-
+  
 ---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sreyasunil&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sreyasunil&theme=tokyonight" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sreyasunil&theme=tokyo-night" />
+
+</div>
+```
+
 
 
 ## Contact
