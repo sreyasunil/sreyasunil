@@ -1,6 +1,6 @@
 <div align="center"> 
   
-# SREYA SUNIL
+# Sreya Sunil
 
 Artificial Intelligence & Data Science Undergraduate 
 
@@ -82,17 +82,15 @@ Developed an AI-powered deforestation monitoring system using Sentinel-2 imagery
 * RAG-based AI systems
 * Exploring Cloud and AI deployment workflows
 * Improving backend and full stack development skills
-  
 
-```
-
-
+---
 
 ## Contact
 
 Email: [sreya4662@gmail.com](mailto:sreya4662@gmail.com)
 
-LinkedIn: https://linkedin.com/in/sreya005
+LinkedIn: [linkedin.com/in/sreya005](https://linkedin.com/in/sreya005)
 
-GitHub: https://github.com/sreyasunil
+GitHub: [github.com/sreyasunil](https://github.com/sreyasunil)
+```
 
