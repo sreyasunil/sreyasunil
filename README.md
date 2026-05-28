@@ -4,7 +4,6 @@ Artificial Intelligence & Data Science Student | Machine Learning | Computer Vis
 
 Building intelligent systems and real-world AI applications through machine learning, computer vision, and scalable software development.
 
-Portfolio • LinkedIn • GitHub
 
 ---
 
@@ -31,7 +30,6 @@ Currently focused on:
 ### Frameworks & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=flask,react,tensorflow,git,github,vscode)](https://skillicons.dev)
-Flask • Streamlit • OpenCV • TensorFlow • Git • GitHub • Google Earth Engine • Geemap
 
 ---
 
@@ -80,16 +78,9 @@ Developed an AI-powered deforestation monitoring system using Sentinel-2 imagery
 
 ---
 
-## Goals
-
-* Contribute to open-source projects
-* Develop scalable AI-driven applications
-* Collaborate on impactful technology solutions
-
----
 
 ## Contact
 
-Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-LinkedIn: your-linkedin-link
+Email: [your-email@gmail.com](mailto:sreya4662@gmail.com)
+LinkedIn: in/sreya005
 GitHub: https://github.com/sreyasunil
