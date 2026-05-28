@@ -73,6 +73,7 @@ Developed an AI-powered deforestation monitoring system using Sentinel-2 imagery
 
 **Tech Stack:** Python, Streamlit, Google Earth Engine, Geemap, PyDeck
 
+---
 
 ## Current Learning
 
