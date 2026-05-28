@@ -26,7 +26,7 @@ Currently focused on:
 
 ### Languages
 
-Python • Java • JavaScript • HTML • CSS
+[![My Skills](https://skillicons.dev/icons?i=js,java,css,py)](https://skillicons.dev)
 
 ### Frameworks & Tools
 
