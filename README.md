@@ -1,7 +1,11 @@
 <div align="center"> 
-# Sreya Sunil 
+  
+# SREYA SUNIL
+
 Artificial Intelligence & Data Science Undergraduate 
+
 Building intelligent systems, real-world AI applications, and impactful tech solutions through machine learning, computer vision, and software development. 
+
 [LinkedIn](https://linkedin.com/in/sreya005) 
 </div>
 
