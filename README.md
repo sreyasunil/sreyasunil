@@ -26,10 +26,11 @@ Currently focused on:
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,css,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,r,c,java)](https://skillicons.dev)
 
 ### Frameworks & Tools
 
+[![My Skills](https://skillicons.dev/icons?i=flask,react,tensorflow,git,github,vscode)](https://skillicons.dev)
 Flask • Streamlit • OpenCV • TensorFlow • Git • GitHub • Google Earth Engine • Geemap
 
 ---
