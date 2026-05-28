@@ -47,29 +47,28 @@ Flask • Streamlit • OpenCV • TensorFlow • Git • GitHub • Google Eart
 
 ## Featured Projects
 
-### EcoMapScout — AI Deforestation Monitoring System
+### Neural Semantic Thought Decoder
 
-Developed an AI-assisted environmental monitoring platform using Sentinel-2 satellite imagery and NDVI-based vegetation analysis to detect and visualize forest cover changes.
+Developed an EEG-based brain-to-text system using the KaraOne dataset for semantic thought prediction using a hybrid CNN-LSTM architecture with Transformer-based contextual learning.
+
+**Tech Stack:** Python, TensorFlow, MNE-Python, SciPy, SBERT
+
+---
+
+### EcoMapScout — Robotic Surveillance System
+
+Built a WiFi-enabled robotic surveillance and environmental monitoring system with live video streaming, remote control, and hazardous gas detection using ESP32 and ESP32-CAM.
+
+**Tech Stack:** ESP32, ESP32-CAM, Arduino IDE, MQ-2 Sensor, Blynk
+
+---
+
+### ForestWatch AI
+
+Developed an AI-powered deforestation monitoring system using Sentinel-2 imagery and NDVI analysis for real-time forest change detection and visualization.
 
 **Tech Stack:** Python, Streamlit, Google Earth Engine, Geemap, PyDeck
 
----
-
-### Rescue & Surveillance Robot
-
-Designed a WiFi-enabled robotic monitoring and surveillance system using ESP32 and ESP32-CAM with integrated environmental sensing capabilities.
-
-**Tech Stack:** ESP32, ESP32-CAM, Arduino IDE, MQ2 Sensor
-
----
-
-### Next Word Prediction System
-
-Built a deep learning–based NLP model for predictive text generation using sequence modeling and semantic word prediction techniques.
-
-**Tech Stack:** Python, TensorFlow, NLP
-
----
 
 ## Current Focus
 
