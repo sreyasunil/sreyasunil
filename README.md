@@ -1,8 +1,9 @@
-# Sreya Sunil
-
-Artificial Intelligence & Data Science Student | Machine Learning | Computer Vision | Full Stack Development
-
-Building intelligent systems and real-world AI applications through machine learning, computer vision, and scalable software development.
+<div align="center"> 
+# Sreya Sunil 
+Artificial Intelligence & Data Science Undergraduate 
+Building intelligent systems, real-world AI applications, and impactful tech solutions through machine learning, computer vision, and software development. 
+[LinkedIn](https://linkedin.com/in/sreya005) 
+</div>
 
 
 ---
