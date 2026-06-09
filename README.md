@@ -7,6 +7,7 @@ Artificial Intelligence & Data Science Undergraduate
 Building intelligent systems, real-world AI applications, and impactful tech solutions through machine learning, computer vision, and software development. 
 
 [LinkedIn](https://linkedin.com/in/sreya005) 
+[Portfolio](https://sreyasunil.vercel.app/)
 </div>
 
 
@@ -91,6 +92,8 @@ Email: [sreya4662@gmail.com](mailto:sreya4662@gmail.com)
 
 LinkedIn: [linkedin.com/in/sreya005](https://linkedin.com/in/sreya005)
 
-GitHub: [github.com/sreyasunil](https://github.com/sreyasunil)
+Portfolio: [https://sreyasunil.vercel.app/](https://sreyasunil.vercel.app/)
+
+
 
 
