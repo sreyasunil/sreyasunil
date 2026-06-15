@@ -70,9 +70,18 @@ Built a WiFi-enabled robotic surveillance and environmental monitoring system wi
 
 ### ForestWatch AI
 
-Developed an AI-powered deforestation monitoring system using Sentinel-2 imagery and NDVI analysis for real-time forest change detection and visualization.
+Satellite-based deforestation detection using real Sentinel-2 imagery via Google Earth Engine.Random Forest land cover classification, Isolation Forest anomaly detection on NDVI time 
+series, and Telegram alerts for vegetation loss events.
 
-**Tech Stack:** Python, Streamlit, Google Earth Engine, Geemap, PyDeck
+**Tech Stack:** Python,Google Earth Engine,Scikit-learn,Sentinel-2,Random Forest,Isolation Forest
+
+---
+
+### RoadSOS
+
+AI-powered emergency assistance system — React conversational frontend, Python backend, real-time guidance during road accidents via RESTful workflows.
+
+**Tech Stack:** React,Python</span>,FastAPI,REST API
 
 ---
 
